@@ -106,3 +106,14 @@
     margin-right: auto;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .gradient,
+  .iphone {
+    left: 0px;
+  }
+
+  .iphone {
+    left: -30px;
+  }
+}
